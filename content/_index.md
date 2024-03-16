@@ -242,7 +242,7 @@ sections:
         postcode: '110016'
         country: India
         country_code: In
-      directions: Enter Building and take the stairs to Office 206B on Floor 2
+      directions: Enter Building and take the stairs to Office 206B on Floor 1
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
