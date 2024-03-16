@@ -234,7 +234,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: payalidas26@gmail.com
       phone: +91 9402510661
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
         street: Bharti School of Telecom and Mgmt.
         city: New Delhi
@@ -251,6 +251,14 @@ sections:
         latitude: '28.5451'
         longitude: '77.1902'  
       contact_links:
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
