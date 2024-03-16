@@ -65,14 +65,16 @@ sections:
         - title: Research Scholar
           company: Indian Institute of Technology Delhi
           company_url: 'https://home.iitd.ac.in/'
-          company_logo: uploads/IITD.png
+          logo_folder: logos
+          company_logo: IITD.png
           location: New Delhi, Delhi
           date_start: '2019-07-01'
           date_end: ''
         - title: Junior Research Fellow
           company: Indian Institute of Technology Mandi
           company_url: 'https://www.iitmandi.ac.in/'
-          company_logo: uploads/IITMandi.png
+          logo_folder: logos
+          company_logo: IITMandi.png
           location: Mandi Himachal Pradesh
           date_start: '2018-01-01'
           date_end: '2019-06-01'
